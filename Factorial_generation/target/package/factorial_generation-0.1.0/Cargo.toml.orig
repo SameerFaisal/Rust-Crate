@@ -1,0 +1,11 @@
+[package]
+name = "factorial_generation"
+version = "0.1.0"
+authors = ["Sameer Faisal <sameerfaisal46@gmail.com>"]
+edition = "2018"
+license="MIT"
+description="A simple program to generate factorial"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

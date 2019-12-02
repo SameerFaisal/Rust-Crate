@@ -1,0 +1,1 @@
+/home/sameerfaisal/Factorial_generation/target/package/Factorial_generation-0.1.0/target/debug/libFactorial_generation.rlib: /home/sameerfaisal/Factorial_generation/target/package/Factorial_generation-0.1.0/src/lib.rs
